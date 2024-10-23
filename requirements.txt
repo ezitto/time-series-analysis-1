@@ -5,3 +5,4 @@ scipy
 PyWavelets
 mpld3
 pandas
+openpyxl
