@@ -40,3 +40,7 @@ Importaciones: Se importan las bibliotecas necesarias al inicio del archivo.
 Carga de datos: Se utiliza pandas para leer el archivo Excel cargado.
 Graficación: Se utilizan matplotlib y mpld3 para visualizar los resultados.
 Análisis: Se implementan funciones para cada tipo de análisis seleccionado por el usuario.
+
+Link para correrla
+https://time-series-analysis-1-jwzaqeib4pltgzpjyscivm.streamlit.app/
+
